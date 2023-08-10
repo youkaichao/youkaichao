@@ -2,6 +2,8 @@
 
 I'm a researcher in AI/ML, and participate in open-source projects I use.
 
+**If you want to know my research, please visit [my personal homepage](https://youkaichao.github.io/).** This page is about my open-source contributions.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=youkaichao)](https://github.com/youkaichao)
 
 ### ⚡ Fun fact:

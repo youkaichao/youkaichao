@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 This is Kaichao You, a tech lover!
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=youkaichao&theme=vue)](https://git.io/streak-stats)
 
 <!--
 **youkaichao/youkaichao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,11 @@
 ### 👋 This is Kaichao You, a tech lover!
 
+I'm a researcher in AI/ML, and participate in open-source projects I use.
+
+### ⚡ Fun fact:
+
+You know what? If you are working with AI/ML, there are probably some lines of code in your computer/server that are written by me!
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=youkaichao&theme=vue)](https://git.io/streak-stats)
 
 <!--
@@ -14,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  ...
 -->

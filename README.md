@@ -6,6 +6,8 @@ I'm a researcher in AI/ML, and participate in open-source projects I use.
 
 You know what? If you are working with AI/ML, there are probably some lines of code in your computer/server that are written by me!
 
+[![Kaichao's GitHub stats](https://github-readme-stats.vercel.app/api?username=youkaichao)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=youkaichao&theme=vue)](https://git.io/streak-stats)
 
 <!--

@@ -2,6 +2,8 @@
 
 I'm a researcher in AI/ML, and participate in open-source projects I use.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=youkaichao)](https://github.com/youkaichao)
+
 ### ⚡ Fun fact:
 
 You know what? If you are working with AI/ML, there are probably some lines of code in your computer/server that are written by me!

@@ -10,6 +10,8 @@ You know what? If you are working with AI/ML, there are probably some lines of c
 
 [![Tianshou](https://github-readme-stats.vercel.app/api/pin/?username=thu-ml&repo=tianshou)](https://github.com/thu-ml/tianshou)
 
+[![Antlr4](https://github-readme-stats.vercel.app/api/pin/?username=antlr&repo=antlr4)](https://github.com/antlr/antlr4)
+
 <!--
 **youkaichao/youkaichao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

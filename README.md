@@ -14,24 +14,6 @@ core developer:
 
 [![Tianshou](https://github-readme-stats.vercel.app/api/pin/?username=thu-ml&repo=tianshou)](https://github.com/thu-ml/tianshou)
 
-bug fix:
-
-[![Antlr4](https://github-readme-stats.vercel.app/api/pin/?username=antlr&repo=antlr4)](https://github.com/antlr/antlr4)
-
-[![Triton](https://github-readme-stats.vercel.app/api/pin/?username=openai&repo=triton)](https://github.com/openai/triton)
-
-[![Triton](https://github-readme-stats.vercel.app/api/pin/?username=openai&repo=tiktoken)](https://github.com/openai/tiktoken)
-
-[![LLVM](https://github-readme-stats.vercel.app/api/pin/?username=llvm&repo=llvm-project)](https://github.com/llvm/llvm-project)
-
-add an API:
-
-[![PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch)](https://github.com/pytorch/pytorch)
-
-add a dataset:
-
-[![Torchvision](https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=vision)](https://github.com/pytorch/vision)
-
 add a feature:
 
 [![MMCV](https://github-readme-stats.vercel.app/api/pin/?username=open-mmlab&repo=mmcv)](https://github.com/open-mmlab/mmcv)
@@ -41,6 +23,24 @@ add a feature:
 The feature is applicable to:
 
 [![MMDetection](https://github-readme-stats.vercel.app/api/pin/?username=open-mmlab&repo=mmdetection)](https://github.com/open-mmlab/mmdetection)
+
+add a dataset:
+
+[![Torchvision](https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=vision)](https://github.com/pytorch/vision)
+
+add an API:
+
+[![PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch)](https://github.com/pytorch/pytorch)
+
+bug fix:
+
+[![Antlr4](https://github-readme-stats.vercel.app/api/pin/?username=antlr&repo=antlr4)](https://github.com/antlr/antlr4)
+
+[![Triton](https://github-readme-stats.vercel.app/api/pin/?username=openai&repo=triton)](https://github.com/openai/triton)
+
+[![Triton](https://github-readme-stats.vercel.app/api/pin/?username=openai&repo=tiktoken)](https://github.com/openai/tiktoken)
+
+[![LLVM](https://github-readme-stats.vercel.app/api/pin/?username=llvm&repo=llvm-project)](https://github.com/llvm/llvm-project)
 
 
 <!--

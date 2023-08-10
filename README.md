@@ -6,7 +6,7 @@ I'm a researcher in AI/ML, and participate in open-source projects I use.
 
 ### ⚡ Fun fact:
 
-You know what? If you are working with AI/ML, there are probably some lines of code in your computer/server that are written by me!
+You know what? **If you are working with AI/ML, there are probably some lines of code in your computer/server that are written by me!**
 
 ### :sunglasses: Repos I made technical contributions to:
 

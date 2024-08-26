@@ -16,7 +16,7 @@ Thanks to the education in Tsinghua University, I’m equipped with full-stack a
 
 I'm a core developer for:
 
-[![vLLM](https://github-readme-stats.vercel.app/api/pin/?username=vllm-project&repo=vllm)](https://github.com/vllm-project/tianshou)
+[![vLLM](https://github-readme-stats.vercel.app/api/pin/?username=vllm-project&repo=vllm)](https://github.com/vllm-project/vllm)
 
 [![Tianshou](https://github-readme-stats.vercel.app/api/pin/?username=thu-ml&repo=tianshou)](https://github.com/thu-ml/tianshou)
 

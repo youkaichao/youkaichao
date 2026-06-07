@@ -1,6 +1,10 @@
 ### 👋 This is Kaichao You, a tech lover!
 
-I'm a researcher in AI/ML, and participate in open-source projects I use.
+I'm a researcher in AI/ML, and participate in open-source projects I use. Since 2024, I have been working on [vLLM](https://github.com/vllm-project/vllm), a high-performance and easy-to-use library for LLM inference.
+
+I'm now starting [Inferact Inc.](https://inferact.ai/) as a co-founder and Chief Scientist. Inferact was founded by creators and core maintainers of vLLM, aiming to grow vLLM as the world's AI inference engine and accelerate AI progress by making inference cheaper and faster. Check the [blog](https://zhuanlan.zhihu.com/p/1962222805228708699) for my story and the [announcement](https://x.com/woosuk_k/status/2014383490637443380) for the company.
+
+We are actively hiring strong candidates in AI inference, distributed systems, and machine learning. Please [submit your application](https://jobs.ashbyhq.com/inferact) or email me.
 
 **If you want to know my research, please visit [my personal homepage](https://youkaichao.github.io/).** This page is about my open-source contributions.
 

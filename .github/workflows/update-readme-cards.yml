@@ -1,0 +1,117 @@
+name: Update README cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme-cards
+  cancel-in-progress: false
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate vLLM card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: pin
+          options: "username=vllm-project&repo=vllm"
+          path: profile/vllm-project-vllm.svg
+
+      - name: Generate Tianshou card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: pin
+          options: "username=thu-ml&repo=tianshou"
+          path: profile/thu-ml-tianshou.svg
+
+      - name: Generate PyTorch card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: pin
+          options: "username=pytorch&repo=pytorch"
+          path: profile/pytorch-pytorch.svg
+
+      - name: Generate Triton card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: pin
+          options: "username=openai&repo=triton"
+          path: profile/openai-triton.svg
+
+      - name: Generate LLVM card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: pin
+          options: "username=llvm&repo=llvm-project"
+          path: profile/llvm-llvm-project.svg
+
+      - name: Generate Antlr4 card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: pin
+          options: "username=antlr&repo=antlr4"
+          path: profile/antlr-antlr4.svg
+
+      - name: Generate MMCV card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: pin
+          options: "username=open-mmlab&repo=mmcv"
+          path: profile/open-mmlab-mmcv.svg
+
+      - name: Generate MMEngine card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: pin
+          options: "username=open-mmlab&repo=mmengine"
+          path: profile/open-mmlab-mmengine.svg
+
+      - name: Generate MMDetection card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: pin
+          options: "username=open-mmlab&repo=mmdetection"
+          path: profile/open-mmlab-mmdetection.svg
+
+      - name: Generate Tiktoken card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: pin
+          options: "username=openai&repo=tiktoken"
+          path: profile/openai-tiktoken.svg
+
+      - name: Generate Torchvision card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: pin
+          options: "username=pytorch&repo=vision"
+          path: profile/pytorch-vision.svg
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "Update README cards"
+          git push

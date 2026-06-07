@@ -4,8 +4,6 @@ I'm a researcher in AI/ML, and participate in open-source projects I use.
 
 **If you want to know my research, please visit [my personal homepage](https://youkaichao.github.io/).** This page is about my open-source contributions.
 
-[comment]: [![trophy](https://github-profile-trophy.vercel.app/?username=youkaichao)](https://github.com/youkaichao)
-
 ### ⚡ Fun fact:
 
 You know what? **If you are working with AI/ML, there are probably some lines of code in your computer/server that are written by me!**
@@ -16,33 +14,33 @@ Thanks to the education in Tsinghua University, I’m equipped with full-stack a
 
 I'm a core developer for:
 
-[![vLLM](https://github-readme-stats.vercel.app/api/pin/?username=vllm-project&repo=vllm)](https://github.com/vllm-project/vllm)
+[![vLLM](profile/vllm-project-vllm.svg)](https://github.com/vllm-project/vllm)
 
-[![Tianshou](https://github-readme-stats.vercel.app/api/pin/?username=thu-ml&repo=tianshou)](https://github.com/thu-ml/tianshou)
+[![Tianshou](profile/thu-ml-tianshou.svg)](https://github.com/thu-ml/tianshou)
 
 I'm a collaborator and constantly contribute to:
 
-[![PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch)](https://github.com/pytorch/pytorch)
+[![PyTorch](profile/pytorch-pytorch.svg)](https://github.com/pytorch/pytorch)
 
 I contribute a language server protocol (LSP) to triton:
 
-[![Triton](https://github-readme-stats.vercel.app/api/pin/?username=openai&repo=triton)](https://github.com/openai/triton)
+[![Triton](profile/openai-triton.svg)](https://github.com/openai/triton)
 
 I have many other random contributions to the following famous open-source projects:
 
-[![LLVM](https://github-readme-stats.vercel.app/api/pin/?username=llvm&repo=llvm-project)](https://github.com/llvm/llvm-project)
+[![LLVM](profile/llvm-llvm-project.svg)](https://github.com/llvm/llvm-project)
 
-[![Antlr4](https://github-readme-stats.vercel.app/api/pin/?username=antlr&repo=antlr4)](https://github.com/antlr/antlr4)
+[![Antlr4](profile/antlr-antlr4.svg)](https://github.com/antlr/antlr4)
 
-[![MMCV](https://github-readme-stats.vercel.app/api/pin/?username=open-mmlab&repo=mmcv)](https://github.com/open-mmlab/mmcv)
+[![MMCV](profile/open-mmlab-mmcv.svg)](https://github.com/open-mmlab/mmcv)
 
-[![MMEngine](https://github-readme-stats.vercel.app/api/pin/?username=open-mmlab&repo=mmengine)](https://github.com/open-mmlab/mmengine)
+[![MMEngine](profile/open-mmlab-mmengine.svg)](https://github.com/open-mmlab/mmengine)
 
-[![MMDetection](https://github-readme-stats.vercel.app/api/pin/?username=open-mmlab&repo=mmdetection)](https://github.com/open-mmlab/mmdetection)
+[![MMDetection](profile/open-mmlab-mmdetection.svg)](https://github.com/open-mmlab/mmdetection)
 
-[![Tiktoken](https://github-readme-stats.vercel.app/api/pin/?username=openai&repo=tiktoken)](https://github.com/openai/tiktoken)
+[![Tiktoken](profile/openai-tiktoken.svg)](https://github.com/openai/tiktoken)
 
-[![Torchvision](https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=vision)](https://github.com/pytorch/vision)
+[![Torchvision](profile/pytorch-vision.svg)](https://github.com/pytorch/vision)
 
 
 <!--
